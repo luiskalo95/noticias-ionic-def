@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1607818138593,
+  "timestamp": 1607819654911,
   "index": "/noticias-ionic-def/index.html",
   "assetGroups": [
     {
@@ -29,8 +29,8 @@
         "/noticias-ionic-def/18-es5.1fd8933c7d321893a527.js",
         "/noticias-ionic-def/19-es2015.deba8ea1f3ea262cdd11.js",
         "/noticias-ionic-def/19-es5.deba8ea1f3ea262cdd11.js",
-        "/noticias-ionic-def/2-es2015.f49eb48fe83b4540fd30.js",
-        "/noticias-ionic-def/2-es5.f49eb48fe83b4540fd30.js",
+        "/noticias-ionic-def/2-es2015.46dac9fb9d73127f4061.js",
+        "/noticias-ionic-def/2-es5.46dac9fb9d73127f4061.js",
         "/noticias-ionic-def/20-es2015.df32f7ba9e5fbb581afe.js",
         "/noticias-ionic-def/20-es5.df32f7ba9e5fbb581afe.js",
         "/noticias-ionic-def/21-es2015.14eb481bc062f22afd32.js",
@@ -137,8 +137,8 @@
         "/noticias-ionic-def/polyfills-dom-es5.cf9c2eaf3c5b3e278ab8.js",
         "/noticias-ionic-def/polyfills-es2015.048fb8854c66c2bbd96e.js",
         "/noticias-ionic-def/polyfills-es5.bc6246415ea64b84cf92.js",
-        "/noticias-ionic-def/runtime-es2015.2a71bc93b09abac79923.js",
-        "/noticias-ionic-def/runtime-es5.2a71bc93b09abac79923.js",
+        "/noticias-ionic-def/runtime-es2015.50a5452d28cf16a74f12.js",
+        "/noticias-ionic-def/runtime-es5.50a5452d28cf16a74f12.js",
         "/noticias-ionic-def/styles.e195c3cc0c998a59fc82.css"
       ],
       "patterns": []
@@ -185,8 +185,8 @@
     "/noticias-ionic-def/18-es5.1fd8933c7d321893a527.js": "4bd3906448bdb85f343d4a173d630e32c0fe68d6",
     "/noticias-ionic-def/19-es2015.deba8ea1f3ea262cdd11.js": "4adae38f52ad8c54dfbfc3ea4299c99b5b70a789",
     "/noticias-ionic-def/19-es5.deba8ea1f3ea262cdd11.js": "948cea665aa6cd4e1d7ce6e0bfa15f4f6f970196",
-    "/noticias-ionic-def/2-es2015.f49eb48fe83b4540fd30.js": "118aa6be487839f29adea2dba113cfa6057d7368",
-    "/noticias-ionic-def/2-es5.f49eb48fe83b4540fd30.js": "500ec176f1807e3dd830e300ca2ebc8b2826bd40",
+    "/noticias-ionic-def/2-es2015.46dac9fb9d73127f4061.js": "f16900ec59dda821f3ed81e7e092ce05090503d6",
+    "/noticias-ionic-def/2-es5.46dac9fb9d73127f4061.js": "1f55efdd6535245ef6b59573e92e5e82d842dfa2",
     "/noticias-ionic-def/20-es2015.df32f7ba9e5fbb581afe.js": "5f59410b4b398e3f7de1a6ee793e973fdd9f07a6",
     "/noticias-ionic-def/20-es5.df32f7ba9e5fbb581afe.js": "a07738af448b870656b3cfe0e77e1bf358ad2335",
     "/noticias-ionic-def/21-es2015.14eb481bc062f22afd32.js": "e2c1ea734af519dfa3eb2cd0b8d1b72f3ca84340",
@@ -291,7 +291,7 @@
     "/noticias-ionic-def/assets/shapes.svg": "5413e95adabcb2cb639970051f55e0ddb64ace53",
     "/noticias-ionic-def/common-es2015.32207e7603ff9baca653.js": "2f2a9e1c4ba95727ec22da6ac5f2c8b6e68ccffb",
     "/noticias-ionic-def/common-es5.32207e7603ff9baca653.js": "4f3ec71898590d4259328964232458978f73b5b2",
-    "/noticias-ionic-def/index.html": "30bb5f1ddc6f027c12530ddc8fdf26964b374b21",
+    "/noticias-ionic-def/index.html": "6257466aef244a24de57c4e8381c1112e2e90137",
     "/noticias-ionic-def/main-es2015.f7e379216c7ee9001c16.js": "d60e349fa595ea80280a7fb4c067b774f47c774d",
     "/noticias-ionic-def/main-es5.f7e379216c7ee9001c16.js": "3f4899b98db31e4387259f30aba29928ed15c18b",
     "/noticias-ionic-def/manifest.webmanifest": "9a088b7c4339228d1082e666ce105dc889bc180c",
@@ -303,8 +303,8 @@
     "/noticias-ionic-def/polyfills-dom-es5.cf9c2eaf3c5b3e278ab8.js": "808e75689d96221d3a57bce76dd16974fc1d4929",
     "/noticias-ionic-def/polyfills-es2015.048fb8854c66c2bbd96e.js": "4de571922adde5bdc4ea2945f7267909dcc4ce25",
     "/noticias-ionic-def/polyfills-es5.bc6246415ea64b84cf92.js": "d11abab8dd3c6d26400e4b4fb862ba9d0248269f",
-    "/noticias-ionic-def/runtime-es2015.2a71bc93b09abac79923.js": "91ffbbdc96f0245ace1ea28473e1aaa806ecede0",
-    "/noticias-ionic-def/runtime-es5.2a71bc93b09abac79923.js": "5da966d37f819dae651af4a48a60775bdf23da29",
+    "/noticias-ionic-def/runtime-es2015.50a5452d28cf16a74f12.js": "b03bfdfce53be49e168aef992273d071d16f3458",
+    "/noticias-ionic-def/runtime-es5.50a5452d28cf16a74f12.js": "5b8ea61c3e699ba8142215987da7863f954a5ebc",
     "/noticias-ionic-def/styles.e195c3cc0c998a59fc82.css": "998a92afa1f310b0bd0c26f8301af49bba30f9f1"
   },
   "navigationUrls": [
